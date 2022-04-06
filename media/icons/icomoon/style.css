@@ -1,0 +1,88 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?queogh');
+  src:  url('fonts/icomoon.eot?queogh#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?queogh') format('truetype'),
+    url('fonts/icomoon.woff?queogh') format('woff'),
+    url('fonts/icomoon.svg?queogh#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  /* speak: never; */
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-facebook:before {
+  content: "\e900";
+}
+.icon-instagram:before {
+  content: "\e901";
+}
+.icon-linkedin:before {
+  content: "\e902";
+}
+.icon-pinterest:before {
+  content: "\e903";
+}
+.icon-twitter:before {
+  content: "\e904";
+}
+.icon-redphone:before {
+  content: "\e90c";
+  color: #f43535;
+}
+.icon-newright:before {
+  content: "\e90b";
+}
+.icon-phnIcon:before {
+  content: "\e90a";
+}
+.icon-mail:before {
+  content: "\e908";
+  color: #f43535;
+}
+.icon-facebook1:before {
+  content: "\e905";
+  color: #fff;
+}
+.icon-instagram1:before {
+  content: "\e906";
+  color: #fff;
+}
+.icon-linkedin1:before {
+  content: "\e907";
+  color: #fff;
+}
+.icon-phone:before {
+  content: "\e911";
+  color: #fff;
+}
+.icon-pinterest1:before {
+  content: "\e90d";
+  color: #fff;
+}
+.icon-twitter1:before {
+  content: "\e90e";
+  color: #fff;
+}
+.icon-whatsapp:before {
+  content: "\e90f";
+  color: #fff;
+}
+.icon-Icon-ionic-ios-arrow-down:before {
+  content: "\e910";
+  color: #7a7d8a;
+}
